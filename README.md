@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dudesamae
-- 👀 I’m interested in  aprender novas programaçoes
-- 🌱 I’m currently learning codigos
+- 👀 I’m interested in learn new programming
+- 🌱 I’m currently learning code
 - 📫 How to reach me ...
 
 <!---
