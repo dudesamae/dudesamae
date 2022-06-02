@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dudesamae
 - 👀 I’m interested in learn new programming
 - 🌱 I’m currently learning code
-- 📫 How to reach me @maducbaptista
+- 📫 How to reach me maria.camara.baptista@escola.pr.gov.br
 
 <!---
 dudesamae/dudesamae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
