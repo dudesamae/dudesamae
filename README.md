@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dudesamae
+- 👋 Hi, I’m @madu
 - 👀 I’m interested in learn new programming
 - 🌱 I’m currently learning code
 - 📫 How to reach me maria.camara.baptista@escola.pr.gov.br
